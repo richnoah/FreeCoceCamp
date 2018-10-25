@@ -1,0 +1,49 @@
+html,body  {
+    overflow-x: hidden;
+}
+body{
+    background: #ffffff;
+}
+.full-width{
+  width: 100%;
+  background: #ff6200;
+}
+.wrap {
+    width: 80%;
+    max-width: 24em;
+    margin: 0 auto;
+    padding: 0.25em 0.625em;
+}
+.orangebanner {
+    padding-top: 10px;
+    background-color:  #ff6200; 
+    height: 34px;
+    
+}
+.leftheader{
+    float: left;
+    vertical-align: middle;
+}
+ .rightheader{
+    vertical-align: middle; 
+ }   
+
+.orangeheader {
+    font-family: 'Oswald', sans-serif; /* Font subsitution as Bebas is not a web font*/
+    color:  #be3500;
+    font-size: 14.75px;
+    font-weight: 400;
+    line-height: 18.64px;
+    text-align: left;
+    vertical-align: middle;
+}
+.whiteheader {
+    font-family: 'Oswald', sans-serif; /* Font subsitution as Bebas is not a web font*/
+    color:  #ffffff;
+    font-size: 14.75px;
+    font-weight: 400;
+    line-height: 18.64px;
+    text-align: left;
+    vertical-align: middle;
+    
+}
